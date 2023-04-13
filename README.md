@@ -303,7 +303,7 @@ Output example
 
 <details>
 <summary>
-💡 Solution
+ Solution
 </summary>
 
 ```sql
@@ -375,7 +375,7 @@ Output example
 
 <details>
 <summary>
-💡 Solution
+ Solution
 </summary>
 
 ```sql
@@ -436,7 +436,7 @@ Output example
 
 <details>
 <summary>
-💡 Solution
+Solution
 </summary>
 
 ```sql
@@ -497,7 +497,7 @@ Output example
 
 <details>
 <summary>
-💡 Solution
+Solution
 </summary>
 
 ```sql
@@ -570,7 +570,7 @@ Output example
 
 <details>
 <summary>
-💡 Solution
+ Solution
 </summary>
 
 ```sql
@@ -641,7 +641,7 @@ Output example
 
 <details>
 <summary>
-💡 Solution
+ Solution
 </summary>
 
 ```sql
@@ -721,7 +721,7 @@ Output example
 
 <details>
 <summary>
-💡 Solution
+ Solution
 </summary>
 
 ```sql
@@ -814,7 +814,7 @@ Output example
 
 <details>
 <summary>
-💡 Solution
+ Solution
 </summary>
 
 ```sql
@@ -933,7 +933,7 @@ ORDER BY
 
 </details>
 
-### ✅ **Question 9**
+###  **Question 9**
 
 The Sales Team wants to build a list of KPIs to measure employees' performances. In order to help them they asked you to provide them a list of employees with:
 
@@ -961,7 +961,7 @@ Output example
 
 <details>
 <summary>
-💡 Solution
+ Solution
 </summary>
 
 ```sql
@@ -1061,7 +1061,7 @@ Output example
 
 <details>
 <summary>
-💡 Solution
+Solution
 </summary>
 	
 ```sql
