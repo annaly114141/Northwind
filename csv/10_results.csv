@@ -1,0 +1,73 @@
+"category_name","employee_full_name","employee_title","total_sale_amount_excluding_discount","total_number_unique_orders","total_number_orders","average_product_amount_excluding_discount","average_order_amount_exclusing_discount","total_discount_amount","total_sale_amount_including_discount","total_discount_percentage"
+Beverages,Margaret Peacock,Sales Representative,  50308.21,65,75,    670.78,    773.97,   2534.14,  52842.35,  4.80
+Beverages,Nancy Davolio,Sales Representative,  46599.35,53,60,    776.66,    879.23,   2232.65,  48832.00,  4.57
+Beverages,Janet Leverling,Sales Representative,  44757.40,55,63,    710.43,    813.77,   1749.15,  46506.55,  3.76
+Beverages,Andrew Fuller,"Vice President, Sales",  40248.25,35,45,    894.41,   1149.95,   1781.15,  42029.40,  4.24
+Dairy Products,Nancy Davolio,Sales Representative,  36022.98,51,65,    554.20,    706.33,   1989.82,  38012.80,  5.23
+Dairy Products,Margaret Peacock,Sales Representative,  33549.80,48,54,    621.29,    698.95,   3497.80,  37047.60,  9.44
+Confections,Janet Leverling,Sales Representative,  33622.40,46,52,    646.58,    730.92,   1236.91,  34859.31,  3.55
+Dairy Products,Janet Leverling,Sales Representative,  32320.83,41,51,    633.74,    788.31,   2225.47,  34546.30,  6.44
+Meat/Poultry,Margaret Peacock,Sales Representative,  30867.14,31,35,    881.92,    995.71,   3312.08,  34179.22,  9.69
+Beverages,Robert King,Sales Representative,  27963.83,34,36,    776.77,    822.47,   5553.17,  33517.00, 16.57
+Meat/Poultry,Andrew Fuller,"Vice President, Sales",  29873.60,25,26,   1148.98,   1194.94,   3099.91,  32973.51,  9.40
+Dairy Products,Robert King,Sales Representative,  27621.86,26,31,    891.03,   1062.38,   2959.64,  30581.50,  9.68
+Confections,Nancy Davolio,Sales Representative,  28568.92,50,56,    510.16,    571.38,   1774.62,  30343.54,  5.85
+Confections,Margaret Peacock,Sales Representative,  27768.73,63,71,    391.11,    440.77,   1774.34,  29543.06,  6.01
+Seafood,Margaret Peacock,Sales Representative,  27315.93,61,69,    395.88,    447.80,   1725.74,  29041.67,  5.94
+Seafood,Janet Leverling,Sales Representative,  25032.09,47,54,    463.56,    532.60,   2459.90,  27491.99,  8.95
+Dairy Products,Andrew Fuller,"Vice President, Sales",  23812.55,31,36,    661.46,    768.15,   1782.15,  25594.70,  6.96
+Condiments,Margaret Peacock,Sales Representative,  23314.87,41,45,    518.11,    568.66,   1927.58,  25242.45,  7.64
+Seafood,Nancy Davolio,Sales Representative,  24144.15,47,59,    409.22,    513.71,    802.90,  24947.05,  3.22
+Meat/Poultry,Robert King,Sales Representative,  21176.72,14,15,   1411.78,   1512.62,   3762.53,  24939.24, 15.09
+Dairy Products,Steven Buchanan,Sales Manager,  21937.63,22,31,    707.67,    997.16,   1912.78,  23850.40,  8.02
+Grains/Cereals,Margaret Peacock,Sales Representative,  22579.61,43,46,    490.86,    525.11,   1124.74,  23704.35,  4.74
+Confections,Laura Callahan,Inside Sales Coordinator,  21699.91,36,42,    516.66,    602.78,    939.59,  22639.50,  4.15
+Dairy Products,Anne Dodsworth,Sales Representative,  21101.12,23,25,    844.04,    917.44,    916.78,  22017.90,  4.16
+Grains/Cereals,Janet Leverling,Sales Representative,  21235.01,34,37,    573.92,    624.56,    663.14,  21898.15,  3.03
+Confections,Andrew Fuller,"Vice President, Sales",  21455.69,29,35,    613.02,    739.85,    241.27,  21696.95,  1.11
+Dairy Products,Laura Callahan,Inside Sales Coordinator,  21101.47,32,34,    620.63,    659.42,    494.73,  21596.20,  2.29
+Meat/Poultry,Janet Leverling,Sales Representative,  20502.62,20,21,    976.32,   1025.13,    419.09,  20921.70,  2.00
+Beverages,Anne Dodsworth,Sales Representative,  19642.55,22,24,    818.44,    892.84,    871.05,  20513.60,  4.25
+Produce,Nancy Davolio,Sales Representative,  19706.25,25,28,    703.79,    788.25,    748.20,  20454.45,  3.66
+Beverages,Laura Callahan,Inside Sales Coordinator,  17897.85,47,51,    350.94,    380.81,    742.95,  18640.80,  3.99
+Produce,Margaret Peacock,Sales Representative,  17186.56,24,25,    687.46,    716.11,   1400.19,  18586.75,  7.53
+Dairy Products,Michael Suyama,Sales Representative,  17039.04,29,39,    436.90,    587.55,   1044.06,  18083.10,  5.77
+Meat/Poultry,Laura Callahan,Inside Sales Coordinator,  16395.28,24,24,    683.14,    683.14,   1262.23,  17657.50,  7.15
+Seafood,Andrew Fuller,"Vice President, Sales",  15747.57,32,36,    437.43,    492.11,   1814.13,  17561.70, 10.33
+Confections,Robert King,Sales Representative,  14518.99,22,27,    537.74,    659.95,   2235.46,  16754.45, 13.34
+Condiments,Andrew Fuller,"Vice President, Sales",  14850.67,21,24,    618.78,    707.17,   1502.43,  16353.10,  9.19
+Meat/Poultry,Nancy Davolio,Sales Representative,  15038.47,22,25,    601.54,    683.57,   1307.60,  16346.07,  8.00
+Condiments,Laura Callahan,Inside Sales Coordinator,  14637.66,24,30,    487.92,    609.90,    810.29,  15447.95,  5.25
+Condiments,Janet Leverling,Sales Representative,  13381.64,27,28,    477.92,    495.62,    727.51,  14109.15,  5.16
+Condiments,Nancy Davolio,Sales Representative,  13561.56,25,31,    437.47,    542.46,    472.29,  14033.85,  3.37
+Beverages,Steven Buchanan,Sales Manager,  11000.53,18,21,    523.83,    611.14,   2516.98,  13517.50, 18.62
+Seafood,Laura Callahan,Inside Sales Coordinator,  12041.54,33,37,    325.45,    364.90,   1406.84,  13448.38, 10.46
+Produce,Janet Leverling,Sales Representative,  11960.85,15,15,    797.39,    797.39,    757.30,  12718.15,  5.95
+Produce,Michael Suyama,Sales Representative,  11560.70,17,19,    608.46,    680.04,    763.20,  12323.90,  6.19
+Produce,Laura Callahan,Inside Sales Coordinator,  12016.52,16,16,    751.03,    751.03,    130.28,  12146.80,  1.07
+Grains/Cereals,Andrew Fuller,"Vice President, Sales",  11172.95,25,27,    413.81,    446.92,    890.15,  12063.10,  7.38
+Meat/Poultry,Steven Buchanan,Sales Manager,  11488.20,10,11,   1044.38,   1148.82,    381.20,  11869.40,  3.21
+Grains/Cereals,Laura Callahan,Inside Sales Coordinator,  11072.05,24,26,    425.85,    461.34,    651.85,  11723.90,  5.56
+Produce,Robert King,Sales Representative,  10753.38,9,9,   1194.82,   1194.82,    799.02,  11552.40,  6.92
+Condiments,Anne Dodsworth,Sales Representative,  10125.54,14,15,    675.04,    723.25,    981.36,  11106.90,  8.84
+Beverages,Michael Suyama,Sales Representative,   9450.20,25,29,    325.87,    378.01,    677.55,  10127.75,  6.69
+Grains/Cereals,Michael Suyama,Sales Representative,   9410.70,12,12,    784.23,    784.23,    540.40,   9951.10,  5.43
+Meat/Poultry,Anne Dodsworth,Sales Representative,   8676.66,5,6,   1446.11,   1735.33,   1243.70,   9920.36, 12.54
+Condiments,Robert King,Sales Representative,   8851.37,19,20,    442.57,    465.86,    817.33,   9668.70,  8.45
+Produce,Andrew Fuller,"Vice President, Sales",   9376.48,12,12,    781.37,    781.37,    100.32,   9476.80,  1.06
+Meat/Poultry,Michael Suyama,Sales Representative,   9003.69,10,10,    900.37,    900.37,    378.11,   9381.80,  4.03
+Grains/Cereals,Nancy Davolio,Sales Representative,   8465.90,19,21,    403.14,    445.57,    708.05,   9173.95,  7.72
+Seafood,Anne Dodsworth,Sales Representative,   8148.90,17,19,    428.89,    479.35,    763.65,   8912.55,  8.57
+Confections,Anne Dodsworth,Sales Representative,   8053.16,13,13,    619.47,    619.47,    729.78,   8782.94,  8.31
+Seafood,Robert King,Sales Representative,   7146.58,21,23,    310.72,    340.31,    462.62,   7609.20,  6.08
+Produce,Steven Buchanan,Sales Manager,   7109.02,9,10,    710.90,    789.89,    496.08,   7605.10,  6.52
+Confections,Michael Suyama,Sales Representative,   6859.63,21,23,    298.24,    326.65,    130.67,   6990.30,  1.87
+Grains/Cereals,Robert King,Sales Representative,   6535.50,13,15,    435.70,    502.73,    138.00,   6673.50,  2.07
+Seafood,Michael Suyama,Sales Representative,   5940.70,21,21,    282.89,    282.89,    469.24,   6409.95,  7.32
+Seafood,Steven Buchanan,Sales Manager,   5744.25,12,12,    478.69,    478.69,    456.35,   6200.60,  7.36
+Confections,Steven Buchanan,Sales Manager,   4809.80,15,15,    320.65,    320.65,    679.25,   5489.05, 12.37
+Condiments,Michael Suyama,Sales Representative,   4648.47,14,15,    309.90,    332.03,    281.74,   4930.20,  5.71
+Grains/Cereals,Steven Buchanan,Sales Manager,   4027.56,9,9,    447.51,    447.51,    205.69,   4233.25,  4.86
+Condiments,Steven Buchanan,Sales Manager,   2675.30,8,8,    334.41,    334.41,    127.15,   2802.45,  4.54
+Grains/Cereals,Anne Dodsworth,Sales Representative,   1245.30,3,3,    415.10,    415.10,     60.20,   1305.50,  4.61
+Produce,Anne Dodsworth,Sales Representative,    314.81,2,2,    157.41,    157.41,     89.44,    404.25, 22.12

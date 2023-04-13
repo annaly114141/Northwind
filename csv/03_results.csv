@@ -1,0 +1,10 @@
+"employee_full_name","employee_title","employee_age","manager_full_name","manager_title"
+Janet Leverling,Sales Representative,"28 years 7 mons 2 days",Andrew Fuller,"Vice President, Sales"
+Anne Dodsworth,Sales Representative,"28 years 9 mons 19 days",Steven Buchanan,Sales Manager
+Michael Suyama,Sales Representative,"30 years 3 mons 15 days",Steven Buchanan,Sales Manager
+Robert King,Sales Representative,"33 years 7 mons 4 days",Steven Buchanan,Sales Manager
+Laura Callahan,Inside Sales Coordinator,"36 years 1 mon 27 days",Andrew Fuller,"Vice President, Sales"
+Steven Buchanan,Sales Manager,"38 years 7 mons 13 days",Andrew Fuller,"Vice President, Sales"
+Andrew Fuller,"Vice President, Sales","40 years 5 mons 24 days", ,
+Nancy Davolio,Sales Representative,"43 years 4 mons 24 days",Andrew Fuller,"Vice President, Sales"
+Margaret Peacock,Sales Representative,"55 years 7 mons 14 days",Andrew Fuller,"Vice President, Sales"
